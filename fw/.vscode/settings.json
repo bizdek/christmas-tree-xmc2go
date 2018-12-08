@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
+    "files.associations": {
+        "xmc1100.h": "c",
+        "xmc_gpio.h": "c"
+    },
+    "cortex-debug.armToolchainPath": "C:\\gccARM\\bin",
+    "cortex-debug.JLinkGDBServerPath": "C:\\Program Files (x86)\\SEGGER\\JLink_V640\\JLinkGDBServerCL.exe"
+}

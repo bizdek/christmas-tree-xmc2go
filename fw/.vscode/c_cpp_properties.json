@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Arm",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "XMC1100_Q024x0064"
+            ],
+            "windowsSdkVersion": "10.0.17134.0",
+            "compilerPath": "C:/gccARM/bin/arm-none-eabi-gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
